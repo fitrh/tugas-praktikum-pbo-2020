@@ -8,7 +8,7 @@ public class ConverterTemperature extends Converter implements Temperature {
 
     @Override
     public void stop() {
-        System.out.println("Distance Converter is terminated");
+        System.out.println("Temperature Converter is terminated");
     }
     
     @Override
