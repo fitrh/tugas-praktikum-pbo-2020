@@ -52,9 +52,9 @@ public class Restaurant extends Application {
         this.window = primaryStage;
         this.window.setTitle("RESTAURANT");
         
-        scene1 = new Scene(this.getGrid1(), 300, 150);
+        scene1 = new Scene(this.getGrid1(), 290, 100);
         scene2 = new Scene(this.getGrid2(), 800, 400);
-        scene3 = new Scene(this.getGrid3(), 500, 150);
+        scene3 = new Scene(this.getGrid3(), 300, 150);
 
         window.setScene(scene1);
         window.show();
