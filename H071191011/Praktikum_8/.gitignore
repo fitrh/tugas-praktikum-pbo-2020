@@ -1,0 +1,41 @@
+# Task1
+Task1/.mvn/timing.properties
+Task1/.mvn/wrapper/maven-wrapper.jar
+Task1/.vscode
+Task1/buildNumber.properties
+Task1/dependency-reduced-pom.xml
+Task1/pom.xml.tag
+Task1/pom.xml.releaseBackup
+Task1/pom.xml.versionsBackup
+Task1/pom.xml.next
+Task1/release.properties
+Task1/target
+Task1/user.dat
+
+# Task2
+Task2/.mvn/timing.properties
+Task2/.mvn/wrapper/maven-wrapper.jar
+Task2/.vscode
+Task2/buildNumber.properties
+Task2/dependency-reduced-pom.xml
+Task2/pom.xml.tag
+Task2/pom.xml.releaseBackup
+Task2/pom.xml.versionsBackup
+Task2/pom.xml.next
+Task2/release.properties
+Task2/target
+Task2/user.dat
+
+# Task3
+Task3/.mvn/timing.properties
+Task3/.mvn/wrapper/maven-wrapper.jar
+Task3/.vscode
+Task3/buildNumber.properties
+Task3/dependency-reduced-pom.xml
+Task3/pom.xml.tag
+Task3/pom.xml.releaseBackup
+Task3/pom.xml.versionsBackup
+Task3/pom.xml.next
+Task3/release.properties
+Task3/target
+Task3/user.dat
